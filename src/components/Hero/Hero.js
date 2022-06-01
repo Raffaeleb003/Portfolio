@@ -12,7 +12,7 @@ const Hero = () => (
         Raffaele Balsamo's Portfolio
       </SectionTitle>
          <SectionText>
-           My purpose is to do important things that matter, for people and the planet, to increase my knowledge and use my skills to implement simple and fascinating design.
+           My purpose is to do important and useful things that matter, for people and the society. To increase my knowledge and use my skills to implement simple and fascinating design.
          </SectionText>
     </LeftSection>
   </Section>

@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Starbucks Homepage Clone',
-    description: "A home page clone of the world wide famous coffe company",
+    description: "A home page clone of the world wide famous coffee company",
     image: '/images/4.png',
     tags: ['HTML', 'CSS'],
     source: 'https://google.com',
