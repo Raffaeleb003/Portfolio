@@ -45,14 +45,17 @@ const Timeline = () => {
   return (
    <Section id='about'>
      <SectionTitle>About Me</SectionTitle>
-     <SectionText>Hi there! I'm Raffaele Balsamo, Front-End developer based in Berlin. <br />
-     I'm a quiet confident, naturally curious guy. Perpetually working on improving
-     my knowledge about the design and coding beautifully simple things.
+     <SectionText>Hi there!👋 I'm Raffaele Balsamo, Front-End developer based in Berlin. <br />
+     I'm a quite confident, naturally curious guy who is perpetually working on improving
+     his knowledge about the design and coding beautifully simple things.
      <br />
-     I don't like to define myself by the work I've done, I define myself by the work I want to do.
-     I prefer to keep learning, continue challenging myself, and do interesting things that matter.
      <br />
-     I like to develop expertise in a number of areas over the course of my life and career.</SectionText>
+     I don't like to define myself by the work I've done, I define myself by the work I want to do, 
+     so persistence together with the desire to keep learning new things is a fundamental part of my career as a developer. 💪
+     <br />
+     <br />
+     Keep challenging myself doing interesting useful things that matter for the people
+     and the pursuit of the development of new knowledge in a various number of areas over the course of my life and career, are the fuel that moves the engine. 🚀</SectionText>
    </Section>
   );
 };

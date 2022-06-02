@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <SectionText>
       During my career as a front end developer I have worked with a large amount of different technologies such as: 
       <br />
-      HTML5, CSS3, Javascript, Material-UI, Ant Design, Bootstrap, API, Axios and many more.
+      HTML5, CSS3, JavaScript, Material-UI, Ant Design, Bootstrap, API, Axios and many more.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>React</ListTitle>
           <ListParagraph>
-            Working on many front end projects I have developed experience with React.js and its advanced state management library, Redux
+            Working on many front end projects I have developed experience with React.js and its advanced state management library, Redux.
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -9,7 +9,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome to <br /> 
-        Raffaele Balsamo's Portfolio
+        Raffaele Balsamo's <br /> Portfolio
       </SectionTitle>
          <SectionText>
            My purpose is to do important and useful things that matter, for people and the society. To increase my knowledge and use my skills to implement simple and fascinating design.
