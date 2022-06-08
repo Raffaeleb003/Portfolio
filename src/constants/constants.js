@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Travel Advisor',
-    description: "This advanced travel comapanion app helps you find the best restaurants, hotels and attractions in any city in the world. 🌍",
+    title: 'UX-UI Website',
+    description: "This is modern UX-UI responsive website page on the topic of artificial intelligence. 🤖",
       image: '/images/1.png',
-      tags: ['React', 'Google Maps API', 'RapidApi', 'Material UI'],
-    source: 'https://github.com/Raffaeleb003/React-Travel-Advisor',
-    visit: 'https://github.com/Raffaeleb003/React-Travel-Advisor',
+      tags: ['React', 'UX', 'UI', 'CSS'],
+    source: 'https://rb003gtp3.netlify.app/',
+    visit: 'https://github.com/Raffaeleb003/React-Responsive-UX-UI-Website',
     id: 0,
   },
   {
